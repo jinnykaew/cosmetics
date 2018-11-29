@@ -1,0 +1,64 @@
+body{
+  background: #FBEFF8;
+}
+.free{
+  padding-top: 1px;
+  text-align: center;
+  color: white;
+  font-family: inherit;
+  background: #B4045F;
+}
+.rose{
+  padding-top: 3px;
+  padding-left: 450px;
+  margin: 5px;
+  float: left;
+}
+h1 {
+  font:impact;
+  color: #B4045F;
+  padding-top: 25px;
+  margin: 10px;
+  font-family: inherit;
+}
+.login{
+  text-align: center;
+  background:#B4045F;
+  color:white;
+  padding: 1px;
+}
+.upper{
+  margin-left: 550px;
+  padding-top: 20px;
+}
+.buttonlogin{
+  margin-left: 580px;
+  background: #B4045F;
+  color: white;
+  width: 100px;
+  height: 40px;
+}
+.regis{
+  text-align: center;
+  background:#B4045F;
+  color:white;
+  padding: 1px;
+}
+.buttonreg{
+  margin-left: 580px;
+  background: #B4045F;
+  color: white;
+  width: 100px;
+  height: 40px;
+}
+.lower{
+  margin-left: 550px;
+  padding-top: 20px;
+}
+.us{
+  margin-top: 50px;
+  color: white;
+  font-size: 17px;
+  background: #B4045F;
+  text-align: center;
+}

@@ -1,0 +1,111 @@
+body{
+  background: #FFFFFF;
+}
+.free{
+      background: #FFCCCC;
+    color: #404040;
+    font-family: inherit;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+.rose{
+  padding-top: 1px;
+  
+  margin-left: 500px;
+}
+h1 {
+  font:impact;
+  color: #B4045F;
+  padding-top: 5px;
+  
+  font-family: inherit;
+}
+.menu{
+  color: #2F0B3A;
+  font-size: 30px;
+  font-family: fantasy;
+  padding-top: 30px;
+  padding-left: 100px;
+
+
+}
+
+.best{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: fantasy;
+  margin-top: 50px;
+  color:white;
+  background-color:#B4045F;
+
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+
+  font-family: 'Roboto', sans-serif;
+}
+
+.shopping-cart {
+  width: 750px;
+  height: 423px;
+  margin: 80px auto;
+
+  box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.10);
+  border-radius: 6px;
+ 
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  height: 60px;
+  border-bottom: 1px solid #E1E8EE;
+  padding: 20px 30px;
+
+  font-size: 18px;
+  font-weight: 400;
+}
+ 
+.item {
+  padding: 20px 30px;
+  height: 120px;
+  display: flex;
+}
+ 
+.item:nth-child(3) {
+  border-top:  1px solid #E1E8EE;
+  border-bottom:  1px solid #E1E8EE;
+}
+
+.delete{
+  padding-top: 1px;
+  margin: 1px;
+  float: left;
+}
+
+h3{
+  font:impact;
+ 
+  padding-top: 5px;
+  margin: 1px;
+  font-family: inherit;
+  text-align: center;
+}
+.us{
+  margin-top: 800px;
+  color: #000000;
+  font-size: 17px;
+  background: #FFCCCC;
+  text-align:center;
+}
+

@@ -1,0 +1,138 @@
+body{
+  background: #FBEFF8;
+}
+.free{
+  padding-top: 1px;
+  text-align: center;
+  color: white;
+  font-family: inherit;
+  background: #B4045F;
+}
+.rose{
+  padding-top: 1px;
+  margin: 1px;
+  float: left;
+}
+h1 {
+  font:impact;
+  color: #B4045F;
+  padding-top: 5px;
+  margin: 1px;
+  font-family: inherit;
+}
+.menu{
+  color: #2F0B3A;
+  font-size: 30px;
+  font-family: fantasy;
+  padding-top: 30px;
+  padding-left: 100px;
+
+
+}
+
+.button2{
+  background: #B4045F;
+  color: white;
+  width: 200px;
+  height: 40px;
+  float: center;
+
+}
+
+.button3{
+  background: #B4045F;
+  color: white;
+  width: 100px;
+  height: 40px;
+  margin-left: 300px;
+ 
+}
+
+
+
+.dropbtn {
+	background-color: #000066;
+	color: white;
+	
+	font-size: 15px;
+	border: none;
+	cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #FFFFFF;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #FF9999}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #B4045F;
+}
+
+.root{
+	margin-left: 100px;
+
+}
+
+
+
+
+.detail{
+	margin-left: 30px;
+	margin-left: 600px;
+}
+
+.button4{
+  background: #B4045F;
+  color: white;
+  height: 40px;
+  margin-left: 100px;
+ 
+}
+
+.box-comment input {
+    width: 200px;
+    border: 1px solid #7f9db9;
+}
+
+.box-comment textarea {
+    height: 96px;
+    width: 750px;
+    border: 1px solid #7f9db9;
+}
+
+
+h5 {
+  font:impact;
+  color: #B4045F;
+  font-family: inherit;
+  float: right;
+}
+
+.us{
+  margin-top: 100px;
+  color: white;
+  font-size: 17px;
+  background: #B4045F;
+  text-align: center;
+}

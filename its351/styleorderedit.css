@@ -1,0 +1,42 @@
+body{
+  background: #FBEFF8;
+}
+.free{
+  padding-top: 1px;
+  text-align: center;
+  color: white;
+  font-family: inherit;
+  background: #B4045F;
+}
+.rose{
+  padding-top: 1px;
+  margin: 1px;
+  float: left;
+}
+h1 {
+  font:impact;
+  color: #B4045F;
+  padding-top: 5px;
+  margin: 1px;
+  font-family: inherit;
+}
+
+.button3{
+  background: #B4045F;
+  color: white;
+  width: 100px;
+  height: 40px;
+  float: center;
+  margin-left: 600px;
+}
+
+.us{
+  margin-top: 200px;
+  color: white;
+  font-size: 17px;
+  background: #B4045F;
+  text-align: center;
+  width:100%;
+}
+
+

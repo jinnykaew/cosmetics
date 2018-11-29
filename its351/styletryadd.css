@@ -1,0 +1,66 @@
+body{
+  background: #FBEFF8;
+}
+.free{
+  padding-top: 1px;
+  text-align: center;
+  color: white;
+  font-family: inherit;
+  background: #B4045F;
+}
+.rose{
+  padding-top: 3px;
+  padding-left: 450px;
+  margin: 5px;
+  float: left;
+}
+h1 {
+  font:impact;
+  color: #B4045F;
+  padding-top: 25px;
+  margin: 10px;
+  font-family: inherit;
+}
+.Product{
+  margin-left: 500px;
+}
+.Price{
+  margin-left: 500px;
+}
+.Picture{
+  margin-left: 500px;
+}
+.button3{
+  background: #B4045F;
+  color: white;
+  width: 100px;
+  height: 40px;
+  float: left;
+  margin-left: 550px;
+}
+
+.button8{
+  background: #B4045F;
+  color: white;
+  width: 100px;
+  height: 40px;
+float: left;
+  margin-left: 250px;
+}
+
+.button9{
+  background: #B4045F;
+  color: white;
+  width: 100px;
+  height: 40px;
+  float: left;
+  margin-left: 520px;
+}
+
+.us{
+  margin-top: 500px;
+  color: white;
+  font-size: 17px;
+  background: #B4045F;
+  text-align: center;
+}

@@ -1,0 +1,36 @@
+body{
+  background: #FFFFFF;
+}
+.free{
+      background: #FFCCCC;
+    color: #404040;
+    font-family: inherit;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    
+	
+
+
+}
+
+
+.rose{
+  padding-top: 1px;
+  
+  margin-left: 500px;
+}
+h1 {
+  font:impact;
+  color: #B4045F;
+  padding-top: 5px;
+  
+  font-family: inherit;
+}
+.us{
+  
+  color: #000000;
+  font-size: 17px;
+  background: #FFCCCC;
+  text-align:center;
+}
